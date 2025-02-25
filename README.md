@@ -8,3 +8,4 @@ My name is Manuel. I'm a Python developer specializing in libraries related to a
 
 ### 📚 Known Libraries:
 <img src="https://github.com/Astro247/Astro247/blob/main/tkinter_image.png?raw=true" width="80" height="80"/>
+<img src="https://github.com/Astro247/Astro247/blob/main/numpy.png?raw=true" width="80" height="80"/>
