@@ -10,7 +10,7 @@ My name is Manuel. I'm a Python developer specializing in libraries related to d
 
 ## 📚 Known Libraries:
 <p align="left">
-  <img src="./tkinter.png" alt="Tkinter" width="100">
+  <img src="./tkinter_image.png" alt="Tkinter" width="100">
   <img src="./numpy.png" alt="NumPy" width="100">
   <img src="./pandas.png" alt="Pandas" width="100">
   <img src="./matplotlib.png" alt="Matplotlib" width="100">
