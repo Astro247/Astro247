@@ -9,12 +9,12 @@ You can see more about me and my projects in my <a href="https://yourwebsite.com
 Over the years, I've learnt many technologies and frameworks related to data science. Here is a brief (but not complete!) list of the languages and technologies I know:
 </p>
 <p>
-<img src="images/python.png" alt="Python" width="100"><br>
-<img src="images/sql.png" alt="SQL" width="100"><br>
-<img src="images/tkinter_image.png" alt="Tkinter" width="100"><br>
-<img src="images/pandas.png" alt="Pandas" width="100"><br>
-<img src="images/numpy.png" alt="NumPy" width="100"><br>
-<img src="images/matplotlib.png" alt="Matplotlib" width="100"><br>
+<img src="./python.png" alt="Python" width="100"><br>
+<img src="./sql.png" alt="SQL" width="100"><br>
+<img src="./tkinter_image.png" alt="Tkinter" width="100"><br>
+<img src="./pandas.png" alt="Pandas" width="100"><br>
+<img src="./numpy.png" alt="NumPy" width="100"><br>
+<img src="./matplotlib.png" alt="Matplotlib" width="100"><br>
 </p>
 
 <h2>Stats</h2>
