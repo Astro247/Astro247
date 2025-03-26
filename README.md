@@ -1,5 +1,6 @@
-<h2>Hello!</h2>
+# Astro.
 <p>
+Hello.  
 I'm Manuel, a Python developer specializing in libraries related to data science, with experience in Tkinter for building graphical user interfaces (GUIs)
 </p>
 
@@ -29,4 +30,8 @@ Over the years, I've learnt many technologies and frameworks related to data sci
     <img src="./numpy.png" alt="NumPy" width="50" style="margin-right: 10px;">
     <span>NumPy</span>
   </div>
-  <div style
+  <div style="display: flex; align-items: center;">
+    <img src="./matplotlib.png" alt="Matplotlib" width="50" style="margin-right: 10px;">
+    <span>Matplotlib</span>
+  </div>
+</div>
