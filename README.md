@@ -9,31 +9,24 @@ Over the years, I've learnt many technologies and frameworks related to data sci
 </p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div style="display: flex; align-items: center; text-align: center;">
-    <img src="./python.png" alt="Python" width="50"><br>
-    <span style="margin-left: 10px;">Python</span>
+  <div style="display: flex; align-items: center;">
+    <img src="./python.png" alt="Python" width="50" style="margin-right: 10px;">
+    <span>Python</span>
   </div>
-  <div style="display: flex; align-items: center; text-align: center;">
-    <img src="./sql.png" alt="SQL" width="50"><br>
-    <span style="margin-left: 10px;">SQL</span>
+  <div style="display: flex; align-items: center;">
+    <img src="./sql.png" alt="SQL" width="50" style="margin-right: 10px;">
+    <span>SQL</span>
   </div>
-  <div style="display: flex; align-items: center; text-align: center;">
-    <img src="./tkinter_image.png" alt="Tkinter" width="50"><br>
-    <span style="margin-left: 10px;">Tkinter</span>
+  <div style="display: flex; align-items: center;">
+    <img src="./tkinter_image.png" alt="Tkinter" width="50" style="margin-right: 10px;">
+    <span>Tkinter</span>
   </div>
-  <div style="display: flex; align-items: center; text-align: center;">
-    <img src="./pandas.png" alt="Pandas" width="50"><br>
-    <span style="margin-left: 10px;">Pandas</span>
+  <div style="display: flex; align-items: center;">
+    <img src="./pandas.png" alt="Pandas" width="50" style="margin-right: 10px;">
+    <span>Pandas</span>
   </div>
-  <div style="display: flex; align-items: center; text-align: center;">
-    <img src="./numpy.png" alt="NumPy" width="50"><br>
-    <span style="margin-left: 10px;">NumPy</span>
+  <div style="display: flex; align-items: center;">
+    <img src="./numpy.png" alt="NumPy" width="50" style="margin-right: 10px;">
+    <span>NumPy</span>
   </div>
-  <div style="display: flex; align-items: center; text-align: center;">
-    <img src="./matplotlib.png" alt="Matplotlib" width="50"><br>
-    <span style="margin-left: 10px;">Matplotlib</span>
-  </div>
-</div>
-
-<h2>Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&count_private=true&show_icons=true&theme=merko"><br>
+  <div style
