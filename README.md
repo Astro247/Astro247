@@ -5,8 +5,7 @@ My name is Manuel. I'm a Python developer specializing in libraries related to d
 
 ## 🛠️ Known Languages:
 <p align="left">
-  <img src="./python.png" alt="Python" width="100">
-  <br>
+  <img src="./python.png" alt="Python" width="100" style="margin-right: 20px;"> <!-- Spazio a destra di Python -->
   <img src="./sql.png" alt="SQL" width="100">
 </p>
 
