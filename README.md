@@ -1,12 +1,12 @@
 # Astro.
 <p>
 Hello.  
-I'm Manuel, a Python developer specializing in libraries related to data science, with experience in Tkinter for building graphical user interfaces (GUIs)
+I'm Manuel, a Python developer specialized in data analysis and passionate about leveraging data to extract meaningful informations.
 </p>
 
 <h2>Skills</h2>
 <p>
-Over the years, I've learnt many technologies and frameworks related to data science. Here is a brief (but not complete!) list of the languages and technologies I know:
+Over time, I have learned various technologies useful for data analysis and database management. Here's a list of the technologies I know:
 </p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
