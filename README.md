@@ -16,7 +16,7 @@ Over time, I have learned various technologies useful for data analysis and data
   </div>
   <div style="display: flex; align-items: center;">
     <img src="./sql.png" alt="SQL" width="50" style="margin-right: 10px;">
-    <span>SQL</span>
+    <span>SQL (MySQL)</span>
   </div>
   <div style="display: flex; align-items: center;">
     <img src="./tkinter_image.png" alt="Tkinter" width="50" style="margin-right: 10px;">
