@@ -1,12 +1,11 @@
 # Astro.
 <p>
-Hello.  
-I'm Manuel, a Python developer specialized in data analysis and passionate about leveraging data to extract meaningful informations.
+Hello, I'm Manuel. I'm a Python developer with experience in the main data analysis libraries and proficiency in writing SQL queries, particularly using the MySQL DBMS.
 </p>
 
-<h2>Skills</h2>
+# Skills
 <p>
-Over time, I have learned various technologies useful for data analysis and database management. Here's a list of the technologies I know:
+Over time, these are the skills I have acquired:
 </p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
