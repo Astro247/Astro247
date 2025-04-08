@@ -15,7 +15,7 @@ Over time, these are the skills I have acquired:
   </div>
   <div style="display: flex; align-items: center;">
     <img src="./sql.png" alt="SQL" width="50" style="margin-right: 10px;">
-    <span>SQL (MySQL)</span>
+    <span>SQL (MySQL, MariaDB)</span>
   </div>
   <div style="display: flex; align-items: center;">
     <img src="./tkinter_image.png" alt="Tkinter" width="50" style="margin-right: 10px;">
