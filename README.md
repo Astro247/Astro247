@@ -1,6 +1,6 @@
 # Astro.
 <p>
-Hello, I'm Manuel. I'm a Python developer with experience in the main data analysis libraries and proficiency in writing SQL queries, particularly using the MySQL DBMS.
+Hello, I'm Manuel. I'm a backend Python developer with experience in the main data analysis libraries and proficiency in writing SQL queries.
 </p>
 
 # Skills
