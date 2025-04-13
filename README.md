@@ -33,4 +33,8 @@ Over time, these are the skills I have acquired:
     <img src="./matplotlib.png" alt="Matplotlib" width="50" style="margin-right: 10px;">
     <span>Matplotlib</span>
   </div>
+  <div style="display: flex; align-items: center;">
+    <img src="./html.png" alt="HTML" width="50" style="margin-right: 10px;">
+    <span>HTML</span>
+  </div>
 </div>
