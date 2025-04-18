@@ -1,3 +1,8 @@
+# Astro.
+<p>
+Hello, I'm Manuel. I'm a back-end Python developer with experience in the main data analysis libraries and proficiency in writing SQL queries.
+</p>
+
 # Skills
 <p>
 Over time, these are the skills I have acquired:
