@@ -9,6 +9,8 @@ Over time, these are the skills I have acquired:
 </p>
 
 <h3>Known Languages:</h3>
+<img src="./python.png" alt="Python" width="50" style="margin-right: 10px;">
+<img src="./sql.png" alt="SQL" width="50" style="margin-right: 10px;">
 <div style="display: flex; gap: 20px; justify-content: flex-start;">
   <div style="display: flex; align-items: center;">
     <img src="./python.png" alt="Python" width="50" style="margin-right: 10px;">
