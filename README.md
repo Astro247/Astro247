@@ -9,7 +9,7 @@ Over time, these are the skills I have acquired:
 </p>
 
 <h3>Known Languages:</h3>
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
   <div style="display: flex; align-items: center;">
     <img src="./python.png" alt="Python" width="50" style="margin-right: 10px;">
   </div>
@@ -19,8 +19,11 @@ Over time, these are the skills I have acquired:
   <div style="display: flex; align-items: center;">
     <img src="./html.png" alt="HTML" width="50" style="margin-right: 10px;">
   </div>
+</div>
+
 <h3>Known Technologies and Libraries:</h3>
-<div style="display: flex; align-items: center;">
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <div style="display: flex; align-items: center;">
     <img src="./tkinter_image.png" alt="Tkinter" width="50" style="margin-right: 10px;">
   </div>
   <div style="display: flex; align-items: center;">
