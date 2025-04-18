@@ -11,30 +11,10 @@ Over time, these are the skills I have acquired:
 <h3>Known Languages:</h3>
 <img src="./python.png" alt="Python" width="50" style="margin-right: 10px;">
 <img src="./sql.png" alt="SQL" width="50" style="margin-right: 10px;">
-<div style="display: flex; gap: 20px; justify-content: flex-start;">
-  <div style="display: flex; align-items: center;">
-    <img src="./python.png" alt="Python" width="50" style="margin-right: 10px;">
-  </div>
-  <div style="display: flex; align-items: center;">
-    <img src="./sql.png" alt="SQL" width="50" style="margin-right: 10px;">
-  </div>
-  <div style="display: flex; align-items: center;">
-    <img src="./html.png" alt="HTML" width="50" style="margin-right: 10px;">
-  </div>
-</div>
+<img src="./html.png" alt="HTML" width="50" style="margin-right: 10px;">
 
 <h3>Known Technologies and Libraries:</h3>
-<div style="display: flex; gap: 20px; justify-content: flex-start;">
-  <div style="display: flex; align-items: center;">
-    <img src="./tkinter_image.png" alt="Tkinter" width="50" style="margin-right: 10px;">
-  </div>
-  <div style="display: flex; align-items: center;">
-    <img src="./pandas.png" alt="Pandas" width="50" style="margin-right: 10px;">
-  </div>
-  <div style="display: flex; align-items: center;">
-    <img src="./numpy.png" alt="NumPy" width="50" style="margin-right: 10px;">
-  </div>
-  <div style="display: flex; align-items: center;">
-    <img src="./matplotlib.png" alt="Matplotlib" width="50" style="margin-right: 10px;">
-  </div>
-</div>
+<img src="./tkinter_image.png" alt="Tkinter" width="50" style="margin-right: 10px;">
+<img src="./pandas.png" alt="Pandas" width="50" style="margin-right: 10px;">
+<img src="./numpy.png" alt="NumPy" width="50" style="margin-right: 10px;">
+<img src="./matplotlib.png" alt="Matplotlib" width="50" style="margin-right: 10px;">
