@@ -8,14 +8,14 @@ Hello, I'm Manuel. I'm a back-end Python developer with experience in the main d
 Over time, these are the skills I have acquired:
 </p>
 
-<h3>Known Languages:</h3>
+##Known Languages:
 <div style="display: flex; gap: 15px; flex-wrap: wrap;">
   <img src="./python.png" alt="Python" title="Python" width="50">
   <img src="./sql.png" alt="SQL" title="SQL" width="50">
   <img src="./html.png" alt="HTML" title="HTML" width="50">
 </div>
 
-<h3>Known Technologies and Libraries:</h3>
+##Known Technologies and Libraries:
 <div style="display: flex; gap: 15px; flex-wrap: wrap;">
   <img src="./tkinter_image.png" alt="Tkinter" title="Tkinter" width="50">
   <img src="./pandas.png" alt="Pandas" title="Pandas" width="50">
