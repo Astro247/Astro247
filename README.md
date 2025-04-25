@@ -13,7 +13,7 @@ Over time, these are the skills I have acquired:
   <img src="./python.png" alt="Python" title="Python" width="50">
   <img src="./sql.png" alt="SQL" title="SQL" width="50">
   <img src="./html.png" alt="HTML" title="HTML" width="50">
-  <img src="./css.png" alt="HTML" title="HTML" width="50">
+  <img src="./css.png" alt="CSS" title="CSS" width="50">
 </div>
 
 ## Known Technologies and Libraries:
