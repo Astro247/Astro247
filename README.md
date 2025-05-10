@@ -9,7 +9,7 @@ Over time, these are the skills I have acquired:
 </p>
 
 ## Known Languages:
-<div style="display: flex; gap: 15px; flex-wrap: wrap;">
+<div style="display: flex; gap: 15px; justify-content: space-evenly;">
   <img src="./python.png" alt="Python" title="Python" width="50">
   <img src="./sql.png" alt="SQL" title="SQL" width="50">
   <img src="./html.png" alt="HTML" title="HTML" width="50">
