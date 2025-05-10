@@ -19,7 +19,7 @@ Over time, these are the skills I have acquired:
 
 ## Known Technologies and Libraries:
 <div style="display: flex; gap: 15px;">
-  <img src="./tkinter.png" alt="Tkinter" title="Tkinter" width="50">
+  <img src="./tkinter.png" alt="Tkinter" title="Tkinter" width="30">
   <img src="./pandas.png" alt="Pandas" title="Pandas" width="50">
   <img src="./numpy.png" alt="NumPy" title="NumPy" width="50">
   <img src="./matplotlib.png" alt="Matplotlib" title="Matplotlib" width="50">
