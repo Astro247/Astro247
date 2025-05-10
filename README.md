@@ -14,7 +14,7 @@ Over time, these are the skills I have acquired:
   <img src="./sql.png" alt="SQL" title="SQL" width="50">
   <img src="./html.png" alt="HTML" title="HTML" width="50">
   <img src="./css.png" alt="CSS" title="CSS" height="51">
-  <img src="./js.png" alt="JavaScript" title="JavaScript" width="50">
+  <img src="./js.png" alt="JavaScript" title="JavaScript" height="51">
 </div>
 
 ## Known Technologies and Libraries:
