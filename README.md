@@ -10,10 +10,10 @@ Over time, these are the skills I have acquired:
 
 ## Known Languages:
 <div style="display: flex; gap: 15px; flex-wrap: wrap;">
-  <img src="./python.png" alt="Python" title="Python" height="30">
+  <img src="./python.png" alt="Python" title="Python" width="50">
   <img src="./sql.png" alt="SQL" title="SQL" width="50">
   <img src="./html.png" alt="HTML" title="HTML" width="50">
-  <img src="./css.png" alt="CSS" title="CSS" width="50">
+  <img src="./css.png" alt="CSS" title="CSS" height="50">
   <img src="./js.png" alt="JavaScript" title="JavaScript" width="50">
 </div>
 
