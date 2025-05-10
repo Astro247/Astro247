@@ -9,7 +9,7 @@ Over time, these are the skills I have acquired:
 </p>
 
 ## Known Languages:
-<div style="display: flex; gap: 10px; background-color: red; border: solid 5px; border-color: gray;">
+<div style="display: flex; gap: 10px;">
   <img src="./python.png" alt="Python" title="Python" width="50">
   <img src="./sql.png" alt="SQL" title="SQL" width="50">
   <img src="./html.png" alt="HTML" title="HTML" width="50">
@@ -18,8 +18,8 @@ Over time, these are the skills I have acquired:
 </div>
 
 ## Known Technologies and Libraries:
-<div style="display: flex; gap: 15px; flex-wrap: wrap;">
-  <img src="./tkinter_image.png" alt="Tkinter" title="Tkinter" width="50">
+<div style="display: flex; gap: 15px;">
+  <img src="./tkinter.png" alt="Tkinter" title="Tkinter" width="50">
   <img src="./pandas.png" alt="Pandas" title="Pandas" width="50">
   <img src="./numpy.png" alt="NumPy" title="NumPy" width="50">
   <img src="./matplotlib.png" alt="Matplotlib" title="Matplotlib" width="50">
