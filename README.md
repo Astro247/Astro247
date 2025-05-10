@@ -9,7 +9,7 @@ Over time, these are the skills I have acquired:
 </p>
 
 ## Known Languages:
-<div style="display: flex; gap: 10px; background-color: '#525252'; border: solid 5px; border-color:'#2e2e2e';">
+<div style="display: flex; gap: 10px; background-color: red; border: solid 5px; border-color: gray;">
   <img src="./python.png" alt="Python" title="Python" width="50">
   <img src="./sql.png" alt="SQL" title="SQL" width="50">
   <img src="./html.png" alt="HTML" title="HTML" width="50">
