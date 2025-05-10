@@ -21,6 +21,6 @@ Over time, these are the skills I have acquired:
 <div style="display: flex; gap: 15px; flex-wrap: wrap;">
   <img src="./tkinter_image.png" alt="Tkinter" title="Tkinter" width="50">
   <img src="./pandas.png" alt="Pandas" title="Pandas" width="50">
-  <img src="./numpy.png" alt="NumPy" title="NumPy" width="50">
+  <img src="./numpy.png" alt="NumPy" title="NumPy" width="40">
   <img src="./matplotlib.png" alt="Matplotlib" title="Matplotlib" width="50">
 </div>
