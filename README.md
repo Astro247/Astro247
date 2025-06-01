@@ -5,7 +5,7 @@ Hello, I'm Manuel. I'm a front-end developer with experience in Python, particul
 
 # Skills
 <p>
-Over time, these are the skills I have acquired:
+Over time, driven by determination and curiosity, these are the skills I have acquired:
 </p>
 
 ## Known Languages:
