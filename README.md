@@ -1,6 +1,6 @@
 # Astro.
 <p>
-Hello, I'm Manuel. I'm a front-end JavaScript developer with experience in Python, particularly in data analysis libraries, and proficient in writing SQL queries.
+Hello, I'm Manuel. I'm a front-end developer with experience in Python, particularly in data analysis libraries, and proficient in writing SQL queries.
 </p>
 
 # Skills
