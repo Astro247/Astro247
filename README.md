@@ -24,5 +24,5 @@ Over time, driven by determination and curiosity, these are the skills I have ac
   <img src="./numpy.png" alt="NumPy" title="NumPy" width="50">
   <img src="./matplotlib.png" alt="Matplotlib" title="Matplotlib" width="50">
   <img src="./sql-connector.png" alt="SQL-connector" title="SQL-connector" width="45">
-  <img src="./pathlib.png" alt="Pathlib" title="Pathlib" width="55">
+  <img src="./pathlib.png" alt="Pathlib" title="Pathlib" width="50">
 </div>
