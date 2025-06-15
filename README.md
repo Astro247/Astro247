@@ -23,6 +23,6 @@ Over time, driven by determination and curiosity, these are the skills I have ac
   <img src="./pandas.png" alt="Pandas" title="Pandas" width="50">
   <img src="./numpy.png" alt="NumPy" title="NumPy" width="50">
   <img src="./matplotlib.png" alt="Matplotlib" title="Matplotlib" width="50">
-  <img src="./sql-connector.png" alt="SQL-connector" title="SQL-connector" width="30">
-  <img src="./pathlib.png" alt="Pathlib" title="Pathlib" width="30">
+  <img src="./sql-connector.png" alt="SQL-connector" title="SQL-connector" width="50">
+  <img src="./pathlib.png" alt="Pathlib" title="Pathlib" width="50">
 </div>
