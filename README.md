@@ -23,4 +23,5 @@ Over time, driven by determination and curiosity, these are the skills I have ac
   <img src="./pandas.png" alt="Pandas" title="Pandas" width="50">
   <img src="./numpy.png" alt="NumPy" title="NumPy" width="50">
   <img src="./matplotlib.png" alt="Matplotlib" title="Matplotlib" width="50">
+  <img src="./flask.png" alt="Flask" title="Flask" width="50">
 </div>
