@@ -1,6 +1,6 @@
 # Astro.
 <p>
-Im Manuel, I engage in software engineering practices by applying complex computational paradigms and semantic optimization methodologies, transforming functional inputs into executable outputs within distributed, containerized digital ecosystems, with a particular focus on state management and side-effect control in multi-threaded, asynchronous environments.
+Hello! I'm Manuel. I like programming, that's all.
 </p>
 
 # Skills
