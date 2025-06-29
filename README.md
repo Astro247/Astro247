@@ -1,6 +1,6 @@
 # Astro.
 <p>
-Hello, I'm Manuel. I'm a back-end developer experienced in Python and SQL, with working knowledge of vanilla front-end technologies.
+Im Manuel, I engage in software engineering practices by applying complex computational paradigms and semantic optimization methodologies, transforming functional inputs into executable outputs within distributed, containerized digital ecosystems, with a particular focus on state management and side-effect control in multi-threaded, asynchronous environments.
 </p>
 
 # Skills
