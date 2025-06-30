@@ -11,7 +11,7 @@ Over time, driven by determination and curiosity, these are the skills I have ac
 ## Known Languages:
 <div style="display: flex; gap: 10px;">
   <img src="./python.png" alt="Python" title="Python" width="50">
-  <img src="./iconmysql.png" alt="SQL" title="MySQL" width="60">
+  <img src="./iconmysql.png" alt="SQL" title="MySQL" width="55">
   <img src="./html.png" alt="HTML" title="HTML" width="50">
   <img src="./css.png" alt="CSS" title="CSS" height="51">
   <img src="./js.png" alt="JavaScript" title="JavaScript" height="51">
