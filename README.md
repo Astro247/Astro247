@@ -1,6 +1,6 @@
 # Astro.
 <p>
-Hello! I'm Manuel. I've been programming since I was in school. If you'd like, you can learn more about me on my <a href="[https://mmanuel.netlify.app/](https://mmmanuel.netlify.app/)">personal website</a>.
+Hello! I'm Manuel. I've been programming since I was in school. If you'd like, you can learn more about me on my <a href="https://mmmanuel.netlify.app/">personal website</a>.
 </p>
 
 # Skills
